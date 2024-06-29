@@ -7,6 +7,9 @@
     <a href="https://t.me/mespanky">
       <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/артур-гаетов-737071317">
+      <img src="https://img.shields.io/badge/LinkedIN-blue?logo=LinkedIN&logoColor=white&style=for-the-badge" alt="LinkedIN Badge"/>
+    </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=gosuspanky&style=flat-square&color=blue" alt=""/>
   <h1>
